@@ -1,0 +1,3 @@
+This writing was using fputs
+This writing was using fprintf
+Math: 2 + 3 = 5

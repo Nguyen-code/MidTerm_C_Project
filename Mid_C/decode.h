@@ -1,0 +1,1 @@
+char* Decode(struct Node* root, char* encoded);
